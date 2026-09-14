@@ -8,3 +8,4 @@ const maskEmail = (email) => {
 
 let email = 'itismyfirstproject@javascript.com'
 console.log(maskEmail(email));
+// This is my first JavaScript project.
