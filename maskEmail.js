@@ -10,4 +10,4 @@ let email = 'itismyfirstproject@javascript.com'
 console.log(maskEmail(email));
 // This is my first JavaScript project.
 // this can be used in the future just by changing some function.
-// In website by taking email by the user we can mask the email for privacy reasons.
+// In website by taking email by the user we can mask the email for many privacy reasons.
