@@ -9,3 +9,4 @@ const maskEmail = (email) => {
 let email = 'itismyfirstproject@javascript.com'
 console.log(maskEmail(email));
 // This is my first JavaScript project.
+// this can be used in the future just by changing some function.
