@@ -1,1 +1,1 @@
-# These are my JavaScript projects either be basic.
+# These are my Basic JavaScript Projects.
