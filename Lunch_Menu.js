@@ -59,3 +59,7 @@ function showLunchMenu(lunchMen){
 }
 
 showLunchMenu(["Greens", "Corns", "Beans"])
+
+// using all typees of function we can use to edit or chande the lunch menu and can also get a random lunch from the menu.
+// we can also show the menu items in a single line with a comma and space between each item.
+// we can also access the menu items by their index and can also check if the menu is empty or not.
